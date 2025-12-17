@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Josh
 
-I’m a cybersecurity student at WGU building hands-on projects to prepare for a role in **SOC analysis and threat detection**.  
+I’m a cybersecurity student at Western Governors University building hands-on projects to prepare for a role in **SOC analysis and threat detection**.  
 My focus is on **network traffic analysis, log monitoring, and SIEM dashboards** using tools like **Splunk, Wireshark, and Python**.
 
 ---
